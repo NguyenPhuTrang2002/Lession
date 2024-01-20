@@ -1,10 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { publicRoutes } from '../src/routes'
 
-
-// import Index1 from "./components/LessionTwo/Index";
-// import Login from "./components/LessionThree/Login";
-// import Index from "./components/LessionOne/Index";
 function App() {
   return (
     <Router>
